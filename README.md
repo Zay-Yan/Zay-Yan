@@ -9,11 +9,13 @@
 
 ## 🧰Tech Stack
 
-- Infrastructure as Code (IaC) with Terraform
+- Infrastructure as Code (IaC) with Terraform, CloudFormation
 - Containerization and Orchestration with Docker and Kubernetes
-- Continuous Integration and Deployment (CI/CD) pipelines with GitHub Actions
+- Continuous Integration and Deployment (CI/CD) pipelines with GitHub Actions, Jenkins, ArgoCD, FluxCD
 - Linux enthusiast and bash scripting ninja
+- Cloud Infrastructure Management with AWS, Azure and GCP
 
+## 🚶Contribution
 - 🔭 I’m currently working on **Terraform, CloudFormation and Kubernetes**
 
 - 🌱 I’m currently exploring **CI tools, monitoring tools**
@@ -26,7 +28,7 @@
 
 - 📫 How to reach me **zayyanpainghein@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gaoY4t4yqgwL4HoOFfGNGhx-6efiO4Oq/view?usp=sharing](https://drive.google.com/file/d/1gaoY4t4yqgwL4HoOFfGNGhx-6efiO4Oq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gaoY4t4yqgwL4HoOFfGNGhx-6efiO4Oq/view](Resume)
 
 - ⚡ Fun fact **🎸 When I'm not orchestrating deployments or optimizing infrastructure, you can find me shredding on my guitar. I believe the rhythm of coding and the melody of music have more in common than meets the eye.**
 
