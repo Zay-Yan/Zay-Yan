@@ -23,16 +23,6 @@
 
 - ⚡ Fun fact **🎸 When I'm not orchestrating deployments or optimizing infrastructure, you can find me shredding on my guitar. I believe the rhythm of coding and the melody of music have more in common than meets the eye.**
 
-
-##  🧰 Tech Stack
-
-- Infrastructure as Code (IaC) with Terraform, CloudFormation
-- Containerization and Orchestration with Docker and Kubernetes
-- Continuous Integration and Deployment (CI/CD) pipelines with GitHub Actions, Jenkins, ArgoCD, FluxCD
-- Linux enthusiast and bash scripting ninja
-- Cloud Infrastructure with AWS, Azure, GCP
-- Configuration management with Ansible
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zay-paing-hein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zay-paing-hein" height="30" width="40" /></a>
