@@ -7,6 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+## 🧰Tech Stack
+
+- Infrastructure as Code (IaC) with Terraform
+- Containerization and Orchestration with Docker and Kubernetes
+- Continuous Integration and Deployment (CI/CD) pipelines with GitHub Actions
+- Linux enthusiast and bash scripting ninja
+
 - 🔭 I’m currently working on **Terraform, CloudFormation and Kubernetes**
 
 - 🌱 I’m currently exploring **CI tools, monitoring tools**
