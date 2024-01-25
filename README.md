@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zay Yan Paing Hein</h1>
-<h3 align="center">Your friendly DevOps and System Engineer who loves to exploring about automation, infrastructure, and everything in between.</h3>
+<h3 align="center">🚀 Your friendly DevOps and System Engineer who loves to exploring about automation, infrastructure, and everything in between.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zay-yan&label=Profile%20views&color=0e75b6&style=flat" alt="zay-yan" /> </p>
 
@@ -15,14 +15,28 @@
 
 - 🤝 I’m looking for help with **Python Scripting**
 
-- 💬 Ask me about **Kubernetes, Devops and Cloud**
+- 💬 Ask me about **Kubernetes, Cloud and anything related with Devops**
 
 - 📫 How to reach me **zayyanpainghein@outlook.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gaoY4t4yqgwL4HoOFfGNGhx-6efiO4Oq/view?usp=sharing](https://drive.google.com/file/d/1gaoY4t4yqgwL4HoOFfGNGhx-6efiO4Oq/view?usp=sharing)
+
+- ⚡ Fun fact **🎸 When I'm not orchestrating deployments or optimizing infrastructure, you can find me shredding on my guitar. I believe the rhythm of coding and the melody of music have more in common than meets the eye.**
+
+
+##  🧰 Tech Stack
+
+- Infrastructure as Code (IaC) with Terraform, CloudFormation
+- Containerization and Orchestration with Docker and Kubernetes
+- Continuous Integration and Deployment (CI/CD) pipelines with GitHub Actions, Jenkins, ArgoCD, FluxCD
+- Linux enthusiast and bash scripting ninja
+- Cloud Infrastructure with AWS, Azure, GCP
+- Configuration management with Ansible
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zay yan paing hein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zay yan paing hein" height="30" width="40" /></a>
-<a href="https://fb.com/zay yan paing hein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zay yan paing hein" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zay-paing-hein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zay-paing-hein" height="30" width="40" /></a>
+<a href="https://fb.com/zay.painghein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zay.painghein" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
